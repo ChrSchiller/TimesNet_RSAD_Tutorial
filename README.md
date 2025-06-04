@@ -71,8 +71,8 @@ git clone https://github.com/ChrSchiller/TimesNet_RSAD_Tutorial.git
 
 This command will create a directory `TimesNet_RSAD_Tutorial` in the active directory of your terminal, so make sure to move your terminal to the correct folder beforehand, e.g. `home/user/VSCodeProjects`. 
 
-Alternatively, you can download the full repository (and our example dataset, see below) here: 
-TODO: upload the whole code repo once ready!
+Alternatively, you can download the full repository (and our example dataset, see below) here:  
+
 [Download files](https://drive.google.com/drive/folders/1j2ROJhZog9Thcp_EL8k2CJYG4fm3Y_k-?usp=sharing)
 
 I recommend to use `git clone` to familiarize yourself with git, which is an essential tool for version control in code-intense research. 
